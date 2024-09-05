@@ -1,0 +1,16 @@
+
+html {
+    color: white;
+}
+
+body {
+    background-color:#333;
+}
+
+a {
+    color:aqua;
+}
+
+img {
+    max-width: 256px;
+}
